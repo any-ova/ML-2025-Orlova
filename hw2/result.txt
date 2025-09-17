@@ -1,0 +1,37 @@
+C:\Users\annfr\anaconda3\envs\pythonProject1\python.exe C:\Users\annfr\OneDrive\Desktop\pythonProject1\a.py 
+Epoch 0: Train Loss: 1.451, Test Loss: 0.543, Train Acc: 0.526, Test Acc: 0.855
+Epoch 1: Train Loss: 0.408, Test Loss: 0.320, Train Acc: 0.888, Test Acc: 0.911
+Epoch 2: Train Loss: 0.279, Test Loss: 0.239, Train Acc: 0.922, Test Acc: 0.933
+Epoch 3: Train Loss: 0.213, Test Loss: 0.188, Train Acc: 0.941, Test Acc: 0.946
+Epoch 4: Train Loss: 0.169, Test Loss: 0.163, Train Acc: 0.953, Test Acc: 0.953
+Epoch 5: Train Loss: 0.139, Test Loss: 0.135, Train Acc: 0.962, Test Acc: 0.960
+Epoch 6: Train Loss: 0.119, Test Loss: 0.120, Train Acc: 0.968, Test Acc: 0.966
+Epoch 7: Train Loss: 0.103, Test Loss: 0.115, Train Acc: 0.972, Test Acc: 0.967
+Epoch 8: Train Loss: 0.090, Test Loss: 0.106, Train Acc: 0.976, Test Acc: 0.968
+Epoch 9: Train Loss: 0.080, Test Loss: 0.100, Train Acc: 0.978, Test Acc: 0.970
+Epoch 10: Train Loss: 0.072, Test Loss: 0.092, Train Acc: 0.981, Test Acc: 0.972
+Epoch 11: Train Loss: 0.064, Test Loss: 0.090, Train Acc: 0.983, Test Acc: 0.972
+Epoch 12: Train Loss: 0.058, Test Loss: 0.088, Train Acc: 0.985, Test Acc: 0.973
+Epoch 13: Train Loss: 0.053, Test Loss: 0.086, Train Acc: 0.987, Test Acc: 0.974
+Epoch 14: Train Loss: 0.048, Test Loss: 0.083, Train Acc: 0.988, Test Acc: 0.974
+Epoch 15: Train Loss: 0.043, Test Loss: 0.083, Train Acc: 0.989, Test Acc: 0.974
+Epoch 16: Train Loss: 0.039, Test Loss: 0.079, Train Acc: 0.990, Test Acc: 0.975
+Epoch 17: Train Loss: 0.036, Test Loss: 0.078, Train Acc: 0.992, Test Acc: 0.976
+Epoch 18: Train Loss: 0.033, Test Loss: 0.079, Train Acc: 0.993, Test Acc: 0.975
+Epoch 19: Train Loss: 0.030, Test Loss: 0.077, Train Acc: 0.994, Test Acc: 0.977
+
+Final Results (Tanh, no augmentations):
+Train Accuracy: 0.994, Test Accuracy: 0.977
+Train Loss: 0.030, Test Loss: 0.077
+
+Обучение без аугментаций
+Обучение с вращениями
+Обучение со сдвигами
+Обучение с шумом
+Обучение со всеми аугментациями
+
+Без аугментаций:      0.9751
+Только вращения:      0.9750
+Только сдвиги:        0.9762
+Только шум:           0.9754
+Все аугментации:      0.9754
